@@ -1,0 +1,12 @@
+{
+  "name": "spam-detector",
+  "private": true,
+  "scripts": {
+    "test": "node test/spam-detector.test.js",
+    "start": "node index.js",
+    "build": "echo 'This is a Node.js backend application and does not require a build step.'"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
